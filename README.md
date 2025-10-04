@@ -9,6 +9,8 @@ This means each pin idles HIGH and reads LOW when the button is pressed, elimina
 The sketch also filters out macOS hidden system files from SD card listings so only relevant content is shown.
 
 The wiring is shown in the following image. 
+
+
 <img width="668" height="889" alt="Screenshot 2025-10-04 at 1 37 12 PM" src="https://github.com/user-attachments/assets/cad1958d-86b5-46de-a575-78c5db7c31c1" />
 
 
