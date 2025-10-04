@@ -10,8 +10,7 @@ The sketch also filters out macOS hidden system files from SD card listings so o
 
 The wiring is shown in the following image. 
 
-
-<img width="668" height="889" alt="Screenshot 2025-10-04 at 1 37 12 PM" src="https://github.com/user-attachments/assets/cad1958d-86b5-46de-a575-78c5db7c31c1" />
+<img width="869" height="549" alt="Screenshot 2025-10-04 at 1 40 24 PM" src="https://github.com/user-attachments/assets/a5b0b35e-2f61-4d8b-8485-2138a99434cf" />
 
 
 The serial output is shown in the following image. 
